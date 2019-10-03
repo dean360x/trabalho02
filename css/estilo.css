@@ -1,0 +1,281 @@
+body{
+  margin: 0%;
+}
+
+
+
+.container{
+    width: 85%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.direita{
+  width: 33%;
+  height: 1125px;
+  background:white;
+  box-shadow:1px 1px 10px darkgray;
+  margin-top: 10px;
+}
+.esquerda{
+  width: 66%;
+  height: 1200px;
+  display: flex;
+  flex-direction: column;
+ 
+}
+.ecima{
+  width: 100%;
+  height: 550px;
+  background: white;
+  box-shadow:1px 1px 2px darkgray;
+  margin: 1%;
+}
+.baixo{
+  width: 100%;
+  height: 550px;
+  background: white;
+  margin: 1%;
+  box-shadow:1px 1px 10px darkgray;
+}
+footer{
+  width: 100%;
+  height: 120px;
+  background:#40b7a9;
+  margin-top: 2%;
+}
+
+ .titulo{
+   position: absolute;
+   top: 207px;
+   right: 1270px;
+   font-family: 'Roboto', sans-serif;
+   font-size: 26px;
+   
+}
+ 
+.ecima{
+  color:#757575;
+  font-family: 'Roboto', sans-serif;
+}
+.baixo{
+  color:#757575;
+  font-family: 'Roboto', sans-serif;
+}
+
+.w3-large{
+  color:#40b7a9;
+  font-family:  'Roboto', sans-serif;
+}
+
+
+b, strong {
+  font-weight: bolder;}
+
+  .x{
+    color: #40b7a9;
+    font-family:  'Roboto', sans-serif;
+  }
+  .y{
+    color: #40b7a9;
+    font-family:  'Roboto', sans-serif;
+  }
+
+  .titulo1{
+  color:#40b7a9;
+  margin-left: 10px;
+  }
+
+  .t2{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 10px;
+    size: 22px;
+    color:#757575;
+  }
+
+  .calendario01{
+    color: #40b7a9;
+    margin-left: 10px;
+  }
+
+  .texto01{
+    margin-left: 10px;
+    font-family: border-bottom-color;
+    color: #000;
+  
+  }
+
+  .t3{
+    color:#757575;
+  margin-left: 10px;
+  }
+  .calendario02{
+    color: #40b7a9;
+    margin-left: 10px;
+  }
+
+  .texto02{
+    margin-left: 10px;
+    font-family: border-bottom-color;
+    color: #000;
+  
+  }
+
+  .t3{
+    color:#757575;
+  margin-left: 10px;
+  }
+
+  .calendario03{
+    color: #40b7a9;
+    margin-left: 10px;
+  }
+  .texto03{
+    margin-left: 10px;
+    font-family: border-bottom-color;
+    color: #000;
+  
+  }
+  .ti01{
+    color:#40b7a9;
+  margin-left: 10px;
+  }
+  .ti02{
+    columns: #757575;
+  margin-left: 10px;
+  }
+
+  .calendar01{
+    color: #40b7a9;
+    margin-left: 10px;
+  }
+
+  .text01{
+    margin-left: 10px;
+    font-family: border-bottom-color;
+    color: #000;
+  
+  }
+
+  .ti03{
+    columns: #757575;
+  margin-left: 10px;
+  }
+
+  .calendar02{
+    color: #40b7a9;
+    margin-left: 10px;
+  }
+  .text02{
+    margin-left: 10px;
+    font-family: border-bottom-color;
+    color: #000;
+  
+  }
+
+  .ti04{
+    columns: #757575;
+  margin-left: 10px;
+  }
+
+  .calendar03{
+    color: #40b7a9;
+    margin-left: 10px;
+  }
+
+  .text03{
+    margin-left: 10px;
+    font-family: border-bottom-color;
+    color: #000;
+  
+  }
+
+  .rodape{
+    margin-left: 650px;
+    color: white;
+    font-family: sans-serif;
+  }
+ /*barra 01*/
+  .barra01{
+    width: 90%;
+    height: 16px;
+    border-radius: 10px;
+    margin: 5%;
+    border: medium solid black;
+    background: linear-gradient(to right,#40b7a9 0%,#40b7a9 90% , #757575 10%);
+  }
+  .porcento01{
+     color:black;
+     font-family: sans-serif;
+     margin-left: 150px;
+  }
+
+  /*barra 02*/
+  .barra02{
+    width: 90%;
+    height: 16px;
+    border-radius: 10px;
+    margin: 5%;
+    border: medium solid black;
+    background: linear-gradient(to right,#40b7a9 0%,#40b7a9 80%, #757575 10%);
+  }
+  .porcento02{
+     color:black;
+     font-family: sans-serif;
+     margin-left: 150px;
+  }
+
+  /*barra 03*/
+  .barra03{
+    width: 90%;
+    height: 16px;
+    border-radius: 10px;
+    margin: 5%;
+    border: medium solid black;
+    background: linear-gradient(to right,#40b7a9 0%,#40b7a9 75%, #757575 10%);
+  }
+  .porcento03{
+     color:black;
+     font-family: sans-serif;
+     margin-left: 150px;
+  }
+/*barra 04*/
+.barra04{
+  width: 90%;
+  height: 16px;
+  border-radius: 10px;
+  margin: 5%;
+  border: medium solid black;
+  background: linear-gradient(to right,#40b7a9 0%,#40b7a9 50%, #757575 10%);
+}
+.porcento04{
+   color:black;
+   font-family: sans-serif;
+   margin-left: 150px;
+
+  }
+
+  .barra05{
+    width: 90%;
+    height: 25px;
+    border-radius: 10px;
+    margin: 5%;
+    border: medium solid black;
+    background: linear-gradient(to right,#40b7a9 0%,#40b7a9 100%, #757575 10%);
+  }
+  .barra06{
+    width: 90%;
+    height: 25px;
+    border-radius: 10px;
+    margin: 5%;
+    border: medium solid black;
+    background: linear-gradient(to right,#40b7a9 0%,#40b7a9 50%, #757575 10%);
+  }
+  .barra07{
+    width: 90%;
+    height: 25px;
+    border-radius: 10px;
+    margin: 5%;
+    border: medium solid black;
+    background: linear-gradient(to right,#40b7a9 0%,#40b7a9 25%, #757575 10%);
+  }
